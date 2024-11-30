@@ -1,0 +1,42 @@
+{
+  "os": "Linux-6.8.0-49-generic-x86_64-with-glibc2.39",
+  "python": "3.12.3",
+  "startedAt": "2024-11-30T11:35:36.245208Z",
+  "program": "/home/lolluckestar/Desktop/M1/Computer-Vision/Lab5/UNet.ipynb",
+  "git": {
+    "remote": "https://github.com/Lucanb/Computer-Vision.git",
+    "commit": "6569845928adac485200bdf00d05d8a2eb3d2914"
+  },
+  "email": "lucanastasa@gmail.com",
+  "root": "/home/lolluckestar/Desktop/M1/Computer-Vision/Lab5",
+  "host": "lolluckestar-Inspiron-15-3511",
+  "username": "lolluckestar",
+  "executable": "/home/lolluckestar/Desktop/M1/Computer-Vision/env/bin/python",
+  "codePathLocal": "UNet.ipynb",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "gpu": "NVIDIA GeForce MX350",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "249792131072",
+      "used": "105477279744"
+    }
+  },
+  "memory": {
+    "total": "16500944896"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce MX350",
+      "memoryTotal": "2147483648",
+      "cudaCores": 640,
+      "architecture": "Pascal"
+    }
+  ],
+  "cudaVersion": "12.2"
+}

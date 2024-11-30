@@ -1,0 +1,8 @@
+{"time":"2024-11-30T13:35:36.284160315+02:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-30T13:35:36.284171331+02:00","level":"INFO","msg":"created symlink","path":"/home/lolluckestar/Desktop/M1/Computer-Vision/Lab5/wandb/run-20241130_133531-tipt8mqw/logs/debug-core.log"}
+{"time":"2024-11-30T13:35:36.38829653+02:00","level":"INFO","msg":"created new stream","id":"tipt8mqw"}
+{"time":"2024-11-30T13:35:36.38831868+02:00","level":"INFO","msg":"stream: started","id":"tipt8mqw"}
+{"time":"2024-11-30T13:35:36.388334516+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"tipt8mqw"}
+{"time":"2024-11-30T13:35:36.388366712+02:00","level":"INFO","msg":"sender: started","stream_id":"tipt8mqw"}
+{"time":"2024-11-30T13:35:36.388402999+02:00","level":"INFO","msg":"handler: started","stream_id":"tipt8mqw"}
+{"time":"2024-11-30T13:35:36.924295635+02:00","level":"INFO","msg":"Starting system monitor"}
