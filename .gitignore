@@ -5,3 +5,9 @@ Lab2/data
 Lab*/.ipynb_checkpoints/
 Lab3/skin
 Lab3/skin_out
+Lab3/BGR_Skin
+Lab3/HSV_Skin
+Lab3/YCrCb_Skin
+Lab3/Detected_Faces
+Lab5/Brain Tumor Segmentation
+Lab5/wandb
